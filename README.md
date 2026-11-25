@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Jayasakthi 👋
 
-<!--
-**jayasakthi952-dev/jayasakthi952-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer
 
-Here are some ideas to get you started:
+- 💻 Interested in Software Development
+- 🌱 Learning Python, Java and Web Development
+- 📱 Interested in Mobile App Development
+- 🌐 Portfolio: https://jayasakthimportfolio.netlify.app
+- 📫 Email: jayasakthi952@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+Python | Java | C | C++ | JavaScript | HTML | CSS | Node.js | PHP | MySQL | SQLite | React Native | Expo
